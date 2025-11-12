@@ -27,3 +27,4 @@ typeof alert; // function
 typeof Symbol; // symbol
 typeof []; // object
 typeof {}; //object
+typeof function () {}; // function
