@@ -35,21 +35,10 @@ Củng cố và nắm vững các khái niệm cốt lõi trong JavaScript, đ�
 
 ## 🗓 Kế hoạch học tập (gợi ý)
 
-| Tuần   | Nội dung chính                                          | Ghi chú                     |
+| ngày   | Nội dung chính                                          | Ghi chú                     |
 | ------ | ------------------------------------------------------- | --------------------------- |
-| Tuần 1 | JS Core: Variables, Logical Operators, Loop, Function   | Ôn tập kiến thức nền        |
-| Tuần 2 | Callback, Promise, Scope/Closure                        | Hiểu bất đồng bộ và phạm vi |
-| Tuần 3 | ES6: Arrow Function, Async/Await, Destructuring, Spread | Thực hành tính năng mới     |
+| ngày 1 | JS Core: Variables, Logical Operators, Loop, Function   | Ôn tập kiến thức nền        |
+| ngày 2 | Callback, Promise, Scope/Closure                        | Hiểu bất đồng bộ và phạm vi |
+| ngày 3 | ES6: Arrow Function, Async/Await, Destructuring, Spread | Thực hành tính năng mới     |
 
 ---
-
-## 📚 Tài liệu tham khảo
-
-- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- [JavaScript.info](https://javascript.info/)
-- [W3Schools - JS Tutorial](https://www.w3schools.com/js/)
-
----
-
-> 🏁 **Kết quả mong đợi:**  
-> Sau khi hoàn thành, thực tập sinh có thể hiểu rõ các khái niệm nền tảng và sử dụng thành thạo ES6 trong các dự án thực tế.
